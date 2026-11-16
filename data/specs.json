@@ -1,0 +1,26 @@
+[
+  {
+    "name": "island",
+    "width": 256,
+    "height": 256,
+    "octaves": 5,
+    "seed": 1001,
+    "water": 0.35
+  },
+  {
+    "name": "mountain",
+    "width": 256,
+    "height": 256,
+    "octaves": 7,
+    "seed": 2002,
+    "water": 0.05
+  },
+  {
+    "name": "dunes",
+    "width": 320,
+    "height": 192,
+    "octaves": 3,
+    "seed": 3003,
+    "water": 0.0
+  }
+]
